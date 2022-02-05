@@ -1,0 +1,33 @@
+body{
+  font-family: 'Jost', sans-serif; 
+  text-align: center;
+  background-color: silver;
+}
+button{
+  padding: 15px;
+  border: none;
+  font: inherit;
+  color: inherit;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-bottom: 5px;
+}
+
+button:hover {
+  background-color: black;
+  color: white;
+}
+
+h3{
+  font-size: 30px;
+}
+
+.empty{
+  display: none;
+}
+
+.delete{
+  font-weight: bold;
+  color:red;
+}
